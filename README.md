@@ -1,2 +1,2 @@
 # fit-to-csv-converter
-Script proposal for converting .fits images to csv
+Script proposal for converting .tif images to csv
